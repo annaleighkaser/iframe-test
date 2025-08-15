@@ -9,11 +9,16 @@
         background-color: #333;
         color: white;
         padding: 1em 0;
+        border-bottom: 2px solid white;
         position: fixed;
         top: 0;
         left: 0;
         right: 0;
         z-index: 999;
+    }
+
+    main {
+        margin-top: 100px;
     }
 
     .iframe_container {
