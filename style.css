@@ -19,6 +19,11 @@
         border-radius: 5px;
     }
 
+    .iframe_container {
+        -webkit-overflow-scrolling: touch;
+  	    overflow-y: scroll;
+    }
+
     .iframe {
         display: block;
         width: 100%;
