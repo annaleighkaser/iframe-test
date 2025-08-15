@@ -10,14 +10,6 @@
         color: white;
         padding: 1em 0;
     }
-    button {
-        padding: 10px 20px;
-        background-color: #007bff;
-        color: white;
-        border: none;
-        cursor: pointer;
-        border-radius: 5px;
-    }
 
     .iframe_container {
         -webkit-overflow-scrolling: touch;
